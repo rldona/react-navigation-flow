@@ -93,6 +93,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/raul.lopez/workspace/github/react-navigation-flow/android/app/build/intermediates/exploded-aar/ReactNavigationFlow/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b319ff9834bbeb9be394687614eb86892699ea14">
+        <dex dex="/Users/raul.lopez/workspace/github/react-navigation-flow/android/app/build/intermediates/pre-dexed/debug/ReactNavigationFlow-react-native-vector-icons-unspecified_7672e2415fe678458b8f74fb0c8c7f1df98ff4d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/raul.lopez/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
         jumboMode="false"
         optimize="true"

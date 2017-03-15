@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/raul.lopez/workspace/github/react-navigation-flow/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
+  /Users/raul.lopez/workspace/github/react-navigation-flow/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/raul.lopez/workspace/github/react-navigation-flow/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/raul.lopez/workspace/github/react-navigation-flow/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/raul.lopez/workspace/github/react-navigation-flow/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/raul.lopez/workspace/github/react-navigation-flow/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/raul.lopez/workspace/github/react-navigation-flow/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/raul.lopez/workspace/github/react-navigation-flow/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/raul.lopez/workspace/github/react-navigation-flow/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/raul.lopez/workspace/github/react-navigation-flow/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
+  /Users/raul.lopez/workspace/github/react-navigation-flow/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/raul.lopez/workspace/github/react-navigation-flow/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/raul.lopez/workspace/github/react-navigation-flow/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/raul.lopez/workspace/github/react-navigation-flow/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/raul.lopez/workspace/github/react-navigation-flow/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/raul.lopez/workspace/github/react-navigation-flow/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/raul.lopez/workspace/github/react-navigation-flow/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/raul.lopez/workspace/github/react-navigation-flow/node_modules/react-native/React/Executors/RCTJSCErrorHandling.h \
+  /Users/raul.lopez/workspace/github/react-navigation-flow/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Users/raul.lopez/workspace/github/react-navigation-flow/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/raul.lopez/workspace/github/react-navigation-flow/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/raul.lopez/workspace/github/react-navigation-flow/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/raul.lopez/workspace/github/react-navigation-flow/node_modules/react-native/React/Base/RCTUtils.h
